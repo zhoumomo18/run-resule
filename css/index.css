@@ -1,0 +1,14 @@
+.token.selector{
+    color: black;
+}
+.token.property{
+    color: black;
+}
+.token.comment{
+    color: black;
+}
+
+#displayArea,#MarkCode{
+    height: 100vh;
+    overflow: hidden;
+}
